@@ -21,7 +21,7 @@ img{
     margin: auto;
     padding: 35x 0;
     display: flex;
-    algia-times: center;
+    align-items: center;
     justify-content: space-between;
 }
 .logo{
